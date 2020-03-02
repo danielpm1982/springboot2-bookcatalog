@@ -1,5 +1,5 @@
 # springboot2-bookcatalog
-This is a Book Catalog web MVC application developed with Springboot2
+This is a Book Catalog Web MVC application developed with Spring Boot 2
 
 © 2020 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
