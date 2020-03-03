@@ -4,7 +4,7 @@ This is a Book Catalog Web MVC application developed with Spring Boot 2
 © 2020 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
-<br><br>
+<br>
 
 ![web view 1](https://github.com/danielpm1982/springboot2-bookcatalog/blob/master/src/main/java/com/danielpm1982/bookcatalog/web-view1.png)
 
@@ -16,7 +16,7 @@ This is a Book Catalog Web MVC application developed with Spring Boot 2
 
 ![DB state after bootstrapping sample data at Main class startup](https://github.com/danielpm1982/springboot2-bookcatalog/blob/master/src/main/java/com/danielpm1982/bookcatalog/DB-state-result.png)
 
-<br><br>
+<br>
 
 [**Description of this repository**]<br>
 This is a Book Catalog Web MVC application developed with Spring Boot 2, along with Thymeleaf, Spring Web, Spring Data JPA (Hibernate) and H2 in-memory database (easily extendable to use any other DBMS). Stereotype annotations used: @Controller, @RequestMapping, @Autowired (implicitly), @Repository (implicitly) and persistence annotations: @Entity, @Id, @GeneratedValue, @Column, @OneToMany, @ManyToOne, @ManyToMany, @JoinColumn, @JoinTable and @Query. For more info, read the project comments at each class, starting from the @SpringBootApplication Main class.
